@@ -4,4 +4,8 @@ First install all needed packages
 
 Ether create the default target directory for the mp3 files ($HOME/Musik) or change the default in the y2m.sh
 
-Run the y2m.sh script and enter a youtube url.
+        mkdir $HOME/Musik
+
+Run the y2m.sh script and enter a youtube url. 
+
+Wait..... and play the new created mp3.
