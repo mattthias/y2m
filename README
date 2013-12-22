@@ -1,0 +1,7 @@
+First install all needed packages
+
+        sudo apt-get install zenity libav-tools cclive
+
+Ether create the default target directory for the mp3 files ($HOME/Musik) or change the default in the y2m.sh
+
+Run the y2m.sh script and enter a youtube url.
